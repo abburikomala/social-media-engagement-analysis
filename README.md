@@ -1,54 +1,48 @@
 # 📊 Social Media Engagement Analysis
 
-This project analyzes engagement trends across Facebook, Instagram, and Twitter using real post data. It explores how post type, time of posting, and sentiment score affect user engagement (likes, shares, and comments).
+A beginner-friendly data analysis project using real social media post data from Facebook, Instagram, and Twitter.
 
 ---
 
 ## 📌 Objective
-To understand what drives social media engagement using exploratory data analysis and data visualization.
+To explore how post type, sentiment, and time of posting affect likes, comments, and shares — using Python and Google Colab.
 
 ---
 
-## 📁 Dataset
-- `social_media_engagement1.csv`
-- Contains 100 posts from Facebook, Instagram, and Twitter
-- Columns include post type, sentiment score, engagement metrics, and post timestamp
+## 🗂️ Dataset
+- File: `social_media_engagement1.csv`
+- 100 posts (2023)
+- Columns: platform, post type, sentiment score, likes, comments, shares, post time
 
 ---
 
 ## 📊 Key Insights
-- **Carousel** and **video** posts generally receive higher engagement than text posts.
-- **Instagram** has the highest average engagement across all platforms.
-- **Thursday and Sunday** are the best-performing days for engagement.
-- Posts with **positive sentiment** have better overall engagement.
+- 📅 **Thursday** and **Sunday** had the highest engagement
+- 🖼️ **Carousel** and **Video** posts performed best
+- 😊 **Positive sentiment** led to more engagement
 
 ---
 
 ## 🛠️ Tools Used
-- Python
 - Google Colab
-- Pandas
-- Seaborn & Matplotlib
+- Python (Pandas, Seaborn, Matplotlib)
 
 ---
 
 ## 📈 Visualizations
-- Engagement by Platform
-- Engagement by Post Type
-- Sentiment Score vs Total Engagement
-- Engagement by Day of the Week
+- Barplot: Platform vs. Engagement
+- Boxplot: Post Type vs. Engagement
+- Scatterplot: Sentiment Score vs. Engagement
+- Barplot: Day of Week vs. Engagement
 
 ---
 
-## 📦 How to Run
-1. Clone this repository
-2. Upload the dataset in Google Colab
-3. Run `Social_Media_Analysis.ipynb` to see results
+## 📁 Files
+- `social_media_engagement1.csv`: Dataset
+- `Social_Media_Engagement_Analysis.ipynb`: Analysis notebook
 
 ---
 
-## 📌 Author
-Komala Abburi  
-Aspiring Data Analyst passionate about turning data into actionable insights.
-# social-media-engagement-analysis
-A beginner-friendly project analyzing social media engagement using Python &amp; Google Colab
+## 👤 Author
+**Komala Abburi**  
+Aspiring Data Analyst | Python Learner | Project-Based Learning Enthusiast
