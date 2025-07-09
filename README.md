@@ -30,10 +30,15 @@ To explore how post type, sentiment, and time of posting affect likes, comments,
 ---
 
 ## 📈 Visualizations
-- Barplot: Platform vs. Engagement
-- Boxplot: Post Type vs. Engagement
-- Scatterplot: Sentiment Score vs. Engagement
-- Barplot: Day of Week vs. Engagement
+
+#### 🔹 Average Likes by Platform
+![Average Likes by Platform](avg_likes_by_platform.png)
+
+#### 🔹 Engagement by Post Type
+![Engagement by Post Type](engagement_by_post_type.png)
+
+#### 🔹 Sentiment vs Total Engagement
+![Sentiment vs Engagement](sentiment_vs_engagement.png)
 
 ---
 
